@@ -3,3 +3,4 @@ scp_generation/one_step/variables/variables.index
 scp_generation/training_checkpoints/checkpoint
 scp_generation/training_checkpoints/ckpt_20.data-00000-of-00001
 scp_generation/training_checkpoints/ckpt_20.index
+scp_generation/scp_generator.tflite
