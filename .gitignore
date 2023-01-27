@@ -4,3 +4,6 @@ scp_generation/training_checkpoints/checkpoint
 scp_generation/training_checkpoints/ckpt_20.data-00000-of-00001
 scp_generation/training_checkpoints/ckpt_20.index
 scp_generation/scp_generator.tflite
+scp_generation/one_step/saved_model.pb
+scp_generation/one_step/saved_model.pb
+scp_generation/one_step/saved_model.pb
