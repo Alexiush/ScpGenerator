@@ -7,3 +7,4 @@ scp_generation/scp_generator.tflite
 scp_generation/one_step/saved_model.pb
 scp_generation/one_step/saved_model.pb
 scp_generation/one_step/saved_model.pb
+scp_generation/SCP Generator Repository.code-workspace
